@@ -1,0 +1,26 @@
+/* Change the background color of the body */
+body {
+    background-color: #f0f8ff !important;
+}
+
+/* Change the color of all h1 headers */
+h1 {
+    color: #ff4500 !important;
+}
+
+/* Change the color of all paragraphs */
+p {
+    color: #2e8b57 !important;
+}
+
+/* Change the background color of a specific div with id="main-content" */
+#main-content {
+    background-color: #ffffe0 !important;
+}
+
+/* Change the color of links */
+a {
+    color: #1e90ff !important;
+}
+
+/* Add more rules as needed */
